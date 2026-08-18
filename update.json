@@ -5,16 +5,23 @@
   "rules": {
     "viewbot_ratio_bad": 0.5,
     "viewbot_ratio_warn": 1.5,
-    "follower_jump": 250,
+    "follower_jump": 100,
+    "follower_vs_viewers": 3,
+    "follower_jump_min": 3,
+    "follower_pct_hour": 15,
     "bot_name_pct": 30,
     "copypasta_users": 4,
     "vowel_ratio": 0.24,
     "live_bot_share": 0.6,
-    "extra_bot_patterns": [],
-    "safe_name_patterns": [],
     "viewer_log_min": 5,
     "viewer_jump_pct": 15,
     "viewer_jump_min": 20,
-    "viewer_drop_pct": 25
+    "viewer_drop_pct": 25,
+    "cross_channel_pct": 25,
+    "cross_channel_min": 5,
+    "emote_pct": 5,
+    "sawtooth_pct": 70,
+    "extra_bot_patterns": [],
+    "safe_name_patterns": []
   }
 }
