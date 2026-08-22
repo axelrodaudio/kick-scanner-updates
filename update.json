@@ -21,6 +21,14 @@
     "cross_channel_min": 5,
     "emote_pct": 5,
     "sawtooth_pct": 70,
+    "follow_win_sec": 600,
+    "follow_win_min": 5,
+    "follow_win_vs_view": 2.0,
+    "follow_offline_min": 3,
+    "follow_regular_cv": 0.3,
+    "follow_dead_chat": 5,
+    "follow_long_min": 8,
+    "follow_long_vs_view": 1.5,
     "extra_bot_patterns": [],
     "safe_name_patterns": []
   }
